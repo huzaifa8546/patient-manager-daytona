@@ -1,4 +1,17 @@
-# Patient Manager Software
+Sample Python Project
+
+#🚀 Getting Started
+
+Open Using Daytona
+Install Daytona: Follow the Daytona installation guide.
+Create the Workspace:
+```
+daytona create (https://github.com/huzaifa8546/patient-manager-daytona.git)
+```
+Start the Application:
+```
+Python "patient manager.py"
+```
 
 Patient Manager is a comprehensive application designed to assist healthcare professionals in efficiently managing patient records. The software features an intuitive graphical user interface built with PyQt5 and utilizes SQLite for database management.
 
